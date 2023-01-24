@@ -3,8 +3,8 @@ var config;
 
 // 1st Account (you can boost many accounts as you want)
 config = {};
-config.username = 'all0veragain'; // Account username
-config.password = '59E2002y2015hx'; // Account password
+config.username = 'torif9'; // Account username
+config.password = 'Password98Ez'; // Account password
 config.sharedSecret = 'BApBbzIfDvuZKmA2JEsAlx6VrLk'; // Shared secret (2FA only), leave it blank for steam guard code
 config.enableStatus = true; // Set it to false if you want to stay invisible
 config.gamesAndStatus = [
